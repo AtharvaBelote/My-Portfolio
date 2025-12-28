@@ -102,7 +102,7 @@ export default function Home() {
 
             <h1 className="text-5xl md:text-7xl font-bold mb-6 font-mono">
               <span className="text-gray-600">{"<"}</span>
-              <span className="gradient-text">Atharva Belote</span>
+              <span className="gradient-text">Atharva C Belote</span>
               <span className="text-gray-600">{" />"}</span>
             </h1>
 
