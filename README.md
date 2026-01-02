@@ -2,6 +2,8 @@
 
 A portfolio website built with Next.js 14, TypeScript, and Tailwind CSS.
 
+Live in action: [https://atharvabelote-portfolio.vercel.app/](https://atharvabelote-portfolio.vercel.app/)
+
 ## Getting Started
 
 First, install the dependencies:
